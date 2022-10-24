@@ -1,0 +1,17 @@
+{
+  "name": "elo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.11.0"
+  },
+  "dependencies": {
+    "extract-zip": "^2.0.1"
+  }
+}
